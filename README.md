@@ -1,6 +1,4 @@
-Certainly! When creating a README for publishing your certificate on GitHub, it's important to provide context and details about the internship and the certificate. Here’s a structured example README that you can use or adapt for your repository:
 
----
 
 # QC Verifier Data Cleaning Internship Certificate
 
